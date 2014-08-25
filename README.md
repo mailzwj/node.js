@@ -30,7 +30,7 @@
 
 ## 热门包
 
-* Grunt：[http://gruntjs.com/](http://gruntjs.com/) （英文）、[http://gruntjs.cn/](http://gruntjs.cn/)、（中文）
+* Grunt：[http://gruntjs.com/](http://gruntjs.com/) （英文）、[http://gruntjs.cn/](http://gruntjs.cn/)（中文）
 * Yeoman：[http://yeoman.io/](http://yeoman.io/)
 * Socket.io：[http://socket.io/](http://socket.io/)
 * mocha：[http://visionmedia.github.io/mocha/](http://visionmedia.github.io/mocha/)
