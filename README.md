@@ -27,6 +27,7 @@
 * [http://clouda.com/](http://clouda.com/) (Clouda+，移动 web 应用开发整体解决方案)
 * [http://sailsjs.org/#/](http://sailsjs.org/#/) (Realtime MVC)
 * [http://pomelo.netease.com/](http://pomelo.netease.com/) （Fast, scalable, distributed game server framework）
+* [https://github.com/newghost/ourjs](https://github.com/newghost/ourjs) (OurJs，基于Node的开源博客引擎)
 
 ## 热门包
 
