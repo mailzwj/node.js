@@ -72,6 +72,7 @@
 ## 更多资料
 
 * [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
+* [Node.js的学习资源、教程和工具](http://blog.jobbole.com/75084/)
 
 ## 个人学习
 
