@@ -68,6 +68,7 @@
 
 ## 活跃社区
 
+* Node.js中文网：[http://www.nodejs.net/](http://www.nodejs.net/)
 * cnodejs：[http://cnodejs.org/](http://cnodejs.org/)
 * nodejsbbs：[http://nodejsbbs.com/forum.php](http://nodejsbbs.com/forum.php)
 
