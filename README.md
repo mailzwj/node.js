@@ -3,7 +3,7 @@
 ## 文档
 
 * Node.js 官方文档：[http://nodejs.org/api/](http://nodejs.org/api/)
-* Node.js 中文文档：[http://nodejs.jsbin.cn/api/](http://nodejs.jsbin.cn/api/)
+* Node.js 中文文档：[http://nodeapi.ucdok.com/](http://nodeapi.ucdok.com/#/api/index.html)
 * Express 官方文档：[http://expressjs.com/](http://expressjs.com/)
 * Express 中文文档：[http://expressjs.jser.us/](http://expressjs.jser.us/)
 * Jade 官方文档：[http://jade-lang.com/](http://jade-lang.com/)
