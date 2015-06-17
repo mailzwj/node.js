@@ -45,6 +45,7 @@
 
 ## Node.js 中文资料
 
+* [NodeSchool](http://nodeschool.io/zh-cn/)
 * [七天学会 Node.js](http://nqdeng.github.io/7-days-nodejs/)
 * [Node 入门](http://www.nodebeginner.org/index-zh-cn.html)
 * [Node.js 中文资料导航](https://github.com/youyudehexie/node123)
