@@ -40,7 +40,7 @@
 * Socket.io：[http://socket.io/](http://socket.io/)
 * mocha：[http://mochajs.org/](http://mochajs.org/)
 * uglifyjs：[https://github.com/mishoo/UglifyJS2](https://github.com/mishoo/UglifyJS2)
-* shelljs：[http://documentup.com/arturadib/shelljs](http://documentup.com/arturadib/shelljs)
+* shelljs：[http://documentup.com/shelljs/shelljs](http://documentup.com/shelljs/shelljs)
 
 ## 开发调试
 
