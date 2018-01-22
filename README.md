@@ -34,7 +34,7 @@
 * Babel: [https://github.com/babel/babel](https://github.com/babel/babel)
 * Webpack: [https://github.com/webpack/webpack](https://github.com/webpack/webpack)
 * React: [https://github.com/facebook/react](https://github.com/facebook/react)
-* Grunt：[http://gruntjs.com/](http://gruntjs.com/) （英文）、[http://gruntjs.cn/](http://gruntjs.cn/)（中文）
+* Grunt：[http://gruntjs.com/](http://gruntjs.com/) （英文）、[http://www.gruntjs.net/](http://www.gruntjs.net/)（中文）
 * Gulp：[http://gulpjs.com/](http://gulpjs.com/)
 * Yeoman：[http://yeoman.io/](http://yeoman.io/)
 * Socket.io：[http://socket.io/](http://socket.io/)
